@@ -8,3 +8,5 @@ obj/
 packages/
 # Ignore xls backups
 *.xlk
+# Ignore Microsoft Excel backups
+*.xlb
